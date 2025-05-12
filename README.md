@@ -1,7 +1,6 @@
 # HFT CRYPTO API-BitMart
 
 Python module for Bitmart SDK
-Watch video -> https://www.youtube.com/watch?v=OKxEWVpEWSI
 
 ## Installation
 
